@@ -1,0 +1,12 @@
+{
+  "cost": "23.41",
+  "description": "Chipotle",
+  "group_id": 0,
+  "currency_code": "USD",
+  "users__0__user_id": 1000001,
+  "users__0__paid_share": "23.41",
+  "users__0__owed_share": "11.71",
+  "users__1__user_id": 2000002,
+  "users__1__paid_share": "0",
+  "users__1__owed_share": "11.70"
+}
